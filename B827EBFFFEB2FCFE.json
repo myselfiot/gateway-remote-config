@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-    "ref_latitude": 50.0822850,
-    "ref_longitude": 14.4502592,
+    "ref_latitude": 41.432848,
+    "ref_longitude": 2.157090,
     "ref_altitude": 40,
-    "contact_email": "ecabanas2gmail.com",
-    "description": "TTN BCN"
+    "contact_email": "barrerojuanjo@gmail.com",
+    "description": "Fenix Gateway"
   }
 }
