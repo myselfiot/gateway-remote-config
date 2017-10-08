@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFECD6763",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 41.433901,
+    "ref_longitude": 2.155492,
+    "ref_altitude": 20,
+    "contact_email": "myselfiot@gmail.com",
+    "description": "myselfiot"
+  }
+}
